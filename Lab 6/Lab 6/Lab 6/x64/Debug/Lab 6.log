@@ -1,0 +1,7 @@
+﻿  main.cpp
+C:\Users\Umang\Downloads\CS Year 3\Term 1\Parallel Computing Techniques\Assignments\Lab 6\Lab 6\Lab 6\main.cpp(12,46): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Umang\Downloads\CS Year 3\Term 1\Parallel Computing Techniques\Assignments\Lab 6\Lab 6\Lab 6\main.cpp(30,20): warning C4101: 'end': unreferenced local variable
+C:\Users\Umang\Downloads\CS Year 3\Term 1\Parallel Computing Techniques\Assignments\Lab 6\Lab 6\Lab 6\main.cpp(30,13): warning C4101: 'start': unreferenced local variable
+  Lab 6.vcxproj -> C:\Users\Umang\Downloads\CS Year 3\Term 1\Parallel Computing Techniques\Assignments\Lab 6\Lab 6\Lab 6\x64\Debug\Lab 6.exe
+  'pwsh.exe' is not recognized as an internal or external command,
+  operable program or batch file.
