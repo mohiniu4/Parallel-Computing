@@ -1,0 +1,7 @@
+﻿  lab2.cpp
+C:\Users\Umang\Downloads\CS Year 3\Term 1\Parallel Computing Techniques\Assignments\Lab 2\Lab 2\Lab 2\lab2.cpp(164,22): warning C4244: 'initializing': conversion from '_Rep' to 'float', possible loss of data
+C:\Users\Umang\Downloads\CS Year 3\Term 1\Parallel Computing Techniques\Assignments\Lab 2\Lab 2\Lab 2\lab2.cpp(164,22): warning C4244:         with
+C:\Users\Umang\Downloads\CS Year 3\Term 1\Parallel Computing Techniques\Assignments\Lab 2\Lab 2\Lab 2\lab2.cpp(164,22): warning C4244:         [
+C:\Users\Umang\Downloads\CS Year 3\Term 1\Parallel Computing Techniques\Assignments\Lab 2\Lab 2\Lab 2\lab2.cpp(164,22): warning C4244:             _Rep=double
+C:\Users\Umang\Downloads\CS Year 3\Term 1\Parallel Computing Techniques\Assignments\Lab 2\Lab 2\Lab 2\lab2.cpp(164,22): warning C4244:         ]
+  Lab 2.vcxproj -> C:\Users\Umang\Downloads\CS Year 3\Term 1\Parallel Computing Techniques\Assignments\Lab 2\Lab 2\x64\Debug\Lab 2.exe
